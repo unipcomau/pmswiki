@@ -1,2 +1,2 @@
-# pmswiki
+# wiki
 Wiki
