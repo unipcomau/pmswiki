@@ -1,2 +1,2 @@
 # wiki
-Wiki
+PC setup steps document here.
