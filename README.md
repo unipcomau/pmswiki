@@ -8,7 +8,6 @@
     * choco install sql-server-2019
     * choco install sql-server-2019-cumulative-update
 - SQL Server 2019 (15.0.2095.3) Developer setup as instance
-- Microsoft Team
 - Beyond Compare 4.4.5 27371
 - Use developer email address and setup BitBucket as SSH/SSL to get the Code in PMS folder
 - Setup git alias rb pu gs gg (Commit using gg - Git GUI)
