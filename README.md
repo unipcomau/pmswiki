@@ -1,5 +1,5 @@
 # PC Setup steps for Onboarding (Wiki)
-- Microsoft Team
+- Microsoft Team Microsoft Teams Version 23002.403.1788.1930
 - D: drive
 - Setup Do_not_Move and PMS folder
 - Setup PowerShell 5.1.22621.963 prompt in ConEmu
