@@ -15,5 +15,5 @@
 - 3rd party DLL and Tools
 - Telerik Reporting (https://www.telerik.com/products/reporting.aspx)
 - Telerik ASP.NET AJAX in WebUI (https://www.telerik.com/products/aspnet-ajax.aspx)
-- OpenVPB- Microsoft VPN 3.3.6 (2752)
+- OpenVPN- 3.3.6 (2752)
 - LINQPad 7.7.1 64 bit
