@@ -9,3 +9,5 @@
 - Setup TortoiseGit and Beyond Compare DIFF
 - Setup PowerShell 5.1.22621.963 prompt in ConEmu
 - 3rd party DLL and Tools
+Telerik Reporting (https://www.telerik.com/products/reporting.aspx)
+Telerik ASP.NET AJAX in WebUI (https://www.telerik.com/products/aspnet-ajax.aspx)
