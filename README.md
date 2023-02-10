@@ -3,7 +3,10 @@
 - D: drive
 - Setup Do_not_Move and PMS folder
 - Setup PowerShell 5.1.22621.963 prompt in ConEmu
-- Chocolatey to all update
+- Chocolatey and packages
+    * choco install sql-server-management-studio
+    * choco install sql-server-2019
+    * choco install sql-server-2019-cumulative-update
 - SQL Server 2019 (15.0.2095.3) Developer setup as instance
 - Beyond Compare 4.4.5 27371
 - Use developer email address and setup BitBucket as SSH/SSL to get the Code in PMS folder
