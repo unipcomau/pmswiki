@@ -5,7 +5,7 @@
 - Setup PowerShell 5.1.22621.963 prompt in ConEmu
 - Chocolatey and packages
   - choco install sql-server-management-studio  
-- SQL Server 2019 (15.0.2095.3) Standalone installation
+- SQL Server 2019 Developer (15.0.2095.3) Standalone installation
 ![image](https://user-images.githubusercontent.com/71107438/218455248-e974b527-ecd0-4282-822d-2193a6753ee9.png)
 - or
 - ![image](https://user-images.githubusercontent.com/71107438/218455132-bf3798eb-6409-4d10-9a63-9ddb2d2f0377.png)
