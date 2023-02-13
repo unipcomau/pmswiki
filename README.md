@@ -5,9 +5,9 @@
 - Setup PowerShell 5.1.22621.963 prompt in ConEmu
 - Chocolatey and packages
   - choco install sql-server-management-studio  
-- SQL Server 2019 (15.0.2095.3) Developer setup as instance https://dba.stackexchange.com/questions/322065/how-do-i-download-sql-server-2019-developer-edition
-Download : https://go.microsoft.com/fwlink/?linkid=866662 
-https://dba.stackexchange.com/questions/322065/how-do-i-download-sql-server-2019-developer-edition
+- SQL Server 2019 (15.0.2095.3) 
+- StackExchange Link : Developer setup as instance https://dba.stackexchange.com/questions/322065/how-do-i-download-sql-server-2019-developer-edition
+  Download : https://go.microsoft.com/fwlink/?linkid=866662 
 - Beyond Compare 4.4.5 27371 (- choco install beyondcompare) Add licence key
 - Use developer email address and setup BitBucket as SSH/SSL to get the Code in PMS folder
 - Setup git alias rb pu gs gg (Commit using gg - Git GUI)
