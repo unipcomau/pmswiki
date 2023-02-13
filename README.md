@@ -5,7 +5,7 @@
 - Setup PowerShell 5.1.22621.963 prompt in ConEmu
 - Chocolatey and packages
   - choco install sql-server-management-studio  
-- SQL Server 2019 (15.0.2095.3) 
+- SQL Server 2019 (15.0.2095.3) Standalone installation
 - https://blog.sqlauthority.com/2015/07/13/sql-server-how-to-change-server-name/
 - SELECT  HOST_NAME() AS 'host_name()',
 @@servername AS 'ServerName\InstanceName',
