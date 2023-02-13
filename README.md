@@ -7,6 +7,13 @@
   - choco install sql-server-management-studio  
 - SQL Server 2019 (15.0.2095.3) 
 - https://blog.sqlauthority.com/2015/07/13/sql-server-how-to-change-server-name/
+- SELECT  HOST_NAME() AS 'host_name()',
+@@servername AS 'ServerName\InstanceName',
+SERVERPROPERTY('servername') AS 'ServerName',
+SERVERPROPERTY('machinename') AS 'Windows_Name',
+SERVERPROPERTY('ComputerNamePhysicalNetBIOS') AS 'NetBIOS_Name',
+SERVERPROPERTY('instanceName') AS 'InstanceName',
+SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - ![image](https://user-images.githubusercontent.com/71107438/218431728-72d41f8c-bec0-4f74-8143-01eaaf4c12d4.png)
 - StackExchange Link : Developer setup as instance https://dba.stackexchange.com/questions/322065/how-do-i-download-sql-server-2019-developer-edition
   Download : https://go.microsoft.com/fwlink/?linkid=866662 
