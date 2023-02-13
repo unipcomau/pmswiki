@@ -17,3 +17,5 @@
   - (no setup) Telerik ASP.NET AJAX in WebUI (https://www.telerik.com/products/aspnet-ajax.aspx)
 - OpenVPN- 3.3.6 (2752)
 - LINQPad 7.7.1 64 bit Add licence key
+- LLBLGen
+- OzCode
