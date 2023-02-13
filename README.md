@@ -6,6 +6,8 @@
 - Chocolatey and packages
   - choco install sql-server-management-studio  
 - SQL Server 2019 (15.0.2095.3) Standalone installation
+- ![image](https://user-images.githubusercontent.com/71107438/218453673-dd49750e-2ac0-4ecf-bb5e-86f117be04ec.png)
+
 - https://blog.sqlauthority.com/2015/07/13/sql-server-how-to-change-server-name/
 - SELECT  HOST_NAME() AS 'host_name()',
 @@servername AS 'ServerName\InstanceName',
