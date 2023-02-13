@@ -17,5 +17,5 @@ https://dba.stackexchange.com/questions/322065/how-do-i-download-sql-server-2019
   - (no setup) Telerik ASP.NET AJAX in WebUI (https://www.telerik.com/products/aspnet-ajax.aspx)
 - OpenVPN- 3.3.6 (2752)
 - LINQPad 7.7.1 64 bit Add licence key
-- LLBLGen
+- LLBLGen Add licence file
 - OzCode
