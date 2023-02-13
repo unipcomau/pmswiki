@@ -8,6 +8,8 @@
 - SQL Server 2019 Developer (15.0.2095.3) Standalone installation
 ![image](https://user-images.githubusercontent.com/71107438/218455248-e974b527-ecd0-4282-822d-2193a6753ee9.png)
 
+![image](https://user-images.githubusercontent.com/86107243/218457084-c6abc38b-b4c0-4aba-ac25-dd918b8fc646.png)
+
 - https://blog.sqlauthority.com/2015/07/13/sql-server-how-to-change-server-name/
 - SELECT  HOST_NAME() AS 'host_name()',
 @@servername AS 'ServerName\InstanceName',
