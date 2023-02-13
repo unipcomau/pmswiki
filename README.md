@@ -6,6 +6,12 @@
 - Chocolatey and packages
   - choco install sql-server-management-studio  
 - SQL Server 2019 (15.0.2095.3) Standalone installation
+![image](https://user-images.githubusercontent.com/71107438/218455248-e974b527-ecd0-4282-822d-2193a6753ee9.png)
+- or
+- ![image](https://user-images.githubusercontent.com/71107438/218455132-bf3798eb-6409-4d10-9a63-9ddb2d2f0377.png)
+or
+- ![image](https://user-images.githubusercontent.com/71107438/218454803-e44982a6-5d77-434a-9b86-2ed9ee2fbdb1.png)
+or
 - ![image](https://user-images.githubusercontent.com/71107438/218453673-dd49750e-2ac0-4ecf-bb5e-86f117be04ec.png)
 
 - https://blog.sqlauthority.com/2015/07/13/sql-server-how-to-change-server-name/
