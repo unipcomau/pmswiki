@@ -34,4 +34,6 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - OzCode
 - Portable folder
 - Notepad2
-- IIS setup internal.portfoliomanager.cloud and internal.unip.com.au
+- IIS setup internal.portfoliomanager.cloud and internal.unip.com.au in hosts file
+127.0.0.1         internal.unip.com.au
+127.0.0.1         internal.portfoliomanager.cloud
