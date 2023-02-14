@@ -32,4 +32,4 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - LINQPad 7.7.1 64 bit Add licence key
 - LLBLGen Add licence file
 - OzCode
-- 
+- IIS setup internal.portfoliomanager.cloud and internal.unip.com.au
