@@ -62,3 +62,8 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 #172.31.13.16      nextprod.portfolio.live<br />
 #172.31.13.16      nextprod.portfoliomanager.cloud<br />
 #172.31.13.16      nextprod.unip.com.au<br />
+
+git checkout -b NUMBER_AMIT_BRANCHNAME origin/master;git push -u origin NUMBER_AMIT_BRANCHNAME;     
+996_SNEHAL_LLBLGenUpgrade591to594 
+git checkout -b 996_SNEHAL_LLBLGenUpgrade591to594 origin/master;
+git push -u origin 996_SNEHAL_LLBLGenUpgrade591to594;
