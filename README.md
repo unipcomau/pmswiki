@@ -40,7 +40,7 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - IIS setup internal.portfoliomanager.cloud and internal.unip.com.au in hosts file<br />
 - IIS Rewrite Module 2 (v7.2.1993)
 
-#Local Sites
+#Local Sites<br />
 127.0.0.1         internal.unip.com.au<br />
 127.0.0.1         internal.portfoliomanager.cloud<br />
 127.0.0.1         internal.portfolio.live<br />
