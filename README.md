@@ -28,7 +28,7 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - 3rd party DLL and Tools
   - Telerik Reporting (https://www.telerik.com/products/reporting.aspx)
   - (no setup) Telerik ASP.NET AJAX in WebUI (https://www.telerik.com/products/aspnet-ajax.aspx)
-- OpenVPN- 3.3.6 (2752)
+- OpenVPN- 3.3.6 (2752) Add script for login as 'support'
 - LINQPad 7.7.1 64 bit Add licence key
 - LLBLGen Add licence file
 - OzCode
