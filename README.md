@@ -37,26 +37,26 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 ![image](https://user-images.githubusercontent.com/71107438/218746935-f925da82-7c08-4316-8112-8d0ad492477f.png)
 
 - Notepad2
-- IIS setup internal.portfoliomanager.cloud and internal.unip.com.au in hosts file
+- IIS setup internal.portfoliomanager.cloud and internal.unip.com.au in hosts file<br />
 
-127.0.0.1         internal.unip.com.au
-127.0.0.1         internal.portfoliomanager.cloud
-127.0.0.1         internal.portfolio.live
-127.0.0.1         template.unip.com.au
-127.0.0.1         template.portfoliomanager.cloud
-127.0.0.1         template.portfolio.live
+127.0.0.1         internal.unip.com.au<br />
+127.0.0.1         internal.portfoliomanager.cloud<br />
+127.0.0.1         internal.portfolio.live<br />
+127.0.0.1         template.unip.com.au<br />
+127.0.0.1         template.portfoliomanager.cloud<br />
+127.0.0.1         template.portfolio.live<br />
 
-#Local Sites when connecting via VPN
-#172.31.11.0       uat.portfolio.live
-#172.31.11.0       uat.portfoliomanager.cloud
-#172.31.11.0       uat.unip.com.au
+#Local Sites when connecting via VPN<br />
+#172.31.11.0       uat.portfolio.live<br />
+#172.31.11.0       uat.portfoliomanager.cloud<br />
+#172.31.11.0       uat.unip.com.au<br />
 
-#Local Sites when connecting via Direct PublicIP of the server
-13.211.124.248       uat.portfolio.live
-13.211.124.248       uat.portfoliomanager.cloud
-13.211.124.248       uat.unip.com.au
+#Local Sites when connecting via Direct PublicIP of the server<br />
+13.211.124.248       uat.portfolio.live<br />
+13.211.124.248       uat.portfoliomanager.cloud<br />
+13.211.124.248       uat.unip.com.au<br />
 
-#When moving a server to new IP (Prod) - setup testing
+#When moving a server to new IP (Prod) - setup testing<br />
 #172.31.13.16      nextprod.portfolio.live<br />
 #172.31.13.16      nextprod.portfoliomanager.cloud<br />
 #172.31.13.16      nextprod.unip.com.au<br />
