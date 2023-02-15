@@ -39,6 +39,7 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - Notepad2
 - IIS setup internal.portfoliomanager.cloud and internal.unip.com.au in hosts file<br />
 
+#Local Sites
 127.0.0.1         internal.unip.com.au<br />
 127.0.0.1         internal.portfoliomanager.cloud<br />
 127.0.0.1         internal.portfolio.live<br />
@@ -46,12 +47,12 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 127.0.0.1         template.portfoliomanager.cloud<br />
 127.0.0.1         template.portfolio.live<br />
 
-#Local Sites when connecting via VPN<br />
+#Remote Sites when connecting via VPN<br />
 #172.31.11.0       uat.portfolio.live<br />
 #172.31.11.0       uat.portfoliomanager.cloud<br />
 #172.31.11.0       uat.unip.com.au<br />
 
-#Local Sites when connecting via Direct PublicIP of the server<br />
+#Remote Sites when connecting via Direct PublicIP of the server<br />
 13.211.124.248       uat.portfolio.live<br />
 13.211.124.248       uat.portfoliomanager.cloud<br />
 13.211.124.248       uat.unip.com.au<br />
