@@ -57,6 +57,6 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 13.211.124.248       uat.unip.com.au
 
 #When moving a server to new IP (Prod) - setup testing
-#172.31.13.16      nextprod.portfolio.live
-#172.31.13.16      nextprod.portfoliomanager.cloud
-#172.31.13.16      nextprod.unip.com.au
+#172.31.13.16      nextprod.portfolio.live<br />
+#172.31.13.16      nextprod.portfoliomanager.cloud<br />
+#172.31.13.16      nextprod.unip.com.au<br />
