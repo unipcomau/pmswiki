@@ -41,7 +41,10 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 
 127.0.0.1         internal.unip.com.au
 127.0.0.1         internal.portfoliomanager.cloud
-
+127.0.0.1         internal.portfolio.live
+127.0.0.1         template.unip.com.au
+127.0.0.1         template.portfoliomanager.cloud
+127.0.0.1         template.portfolio.live
 
 #Local Sites when connecting via VPN
 #172.31.11.0       uat.portfolio.live
