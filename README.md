@@ -32,6 +32,8 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - LINQPad 7.7.1 64 bit Add licence key
 - LLBLGen Add licence file
 - OzCode
+- RDTabs 3.0.12.657
+- 7Zip
 - Portable folder
 
 ![image](https://user-images.githubusercontent.com/71107438/218746935-f925da82-7c08-4316-8112-8d0ad492477f.png)
