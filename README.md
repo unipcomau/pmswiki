@@ -7,7 +7,7 @@
   - choco install sql-server-management-studio  
 - SQL Server 2019 Developer (15.0.2095.3) Standalone installation
 - Create folder C:\Temp\PMSDB
-- Create folder C:\Temp\PMSDB\Snapshot
+- Create folder C:\Temp\PMSDB\Snapshots
 
 ![image](https://user-images.githubusercontent.com/71107438/218455248-e974b527-ecd0-4282-822d-2193a6753ee9.png)
 
