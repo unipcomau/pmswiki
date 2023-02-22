@@ -72,3 +72,18 @@ git checkout -b NUMBER_AMIT_BRANCHNAME origin/master;git push -u origin NUMBER_A
 996_SNEHAL_LLBLGenUpgrade591to594 
 git checkout -b 996_SNEHAL_LLBLGenUpgrade591to594 origin/master;
 git push -u origin 996_SNEHAL_LLBLGenUpgrade591to594;
+
+
+How to create package<br />
+1. Connect to VPN<br />
+2. PS> profile cmd to open PowerShell_profile.ps1 Or path:C:\Users\LPT142\Documents\WindowsPowerShell\Microsoft.PowerShell_profile.ps1<br />
+3. PS> jump cmd or Go to Path "D:\Do_not_Move\PMS\Source\PMS.PAS\BuildTools\Psake\deploy_PMS"  <br />
+4. PS> .\localBuild.bat SFTPUF  For UAT FULL Package. (For MINI package use SFTPUM) =><br />
+5. Above cmd will transfer the package to Remote Folder :  C:\HostingSpaces\admin\uat.unip.com.au\restorefrom<br />
+6. We can check status of last release : https://uat.unip.com.au/status/api/<br />
+7. Put this json into notepad.<br />
+8. PS>  .\sessionConnect.ps1 (It will open Putty software)<br />
+9. Double click on UAT 172.31.11.0(unipftp) will open the PowerShell prompt.<br />
+10 PS C:\HostingSpaces\do_not_move\Portable\Psake\deploy_PMS>.\serverDeployUAT.bat TestPackage<br />
+11.PS C:\HostingSpaces\do_not_move\Portable\Psake\deploy_PMS>.\serverDeployUAT.bat Deploy<br />
+12.We can check status of our release : https://uat.unip.com.au/status/api/<br />
