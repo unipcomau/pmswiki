@@ -33,6 +33,9 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
   - (no setup) Telerik ASP.NET AJAX in WebUI (https://www.telerik.com/products/aspnet-ajax.aspx)
 - OpenVPN- 3.3.6 (2752) Add script for login as 'support'
 - LINQPad 7.7.1 64 bit Add licence key
+
+![image](https://user-images.githubusercontent.com/71107438/220879633-0a796a65-715b-47b6-a9a3-2e0d30ddcc65.png)
+
 - LLBLGen Add licence file
 - OzCode
 - RDTabs 3.0.12.657
