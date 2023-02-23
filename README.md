@@ -87,3 +87,16 @@ How to create package<br />
 10. PS C:\HostingSpaces\do_not_move\Portable\Psake\deploy_PMS>.\serverDeployUAT.bat TestPackage<br />
 11. PS C:\HostingSpaces\do_not_move\Portable\Psake\deploy_PMS>.\serverDeployUAT.bat Deploy<br />
 12. We can check status of our release : https://uat.unip.com.au/status/api/<br />
+
+Email for UAT<br />
+Deployed a new version in UAT - 23.203.1644_M00387_UM Database Change Required (LINQPad script count - 0, DBScript count - 0, Schema change - NO, Data change - NO, Batch Job - NO, Web/Web-Template.config - NO BatchJob.config - NO)
+
+Hi Ashok,
+
+Deployed a new version in UAT - 23.203.1644_M00387_UM Database Change Required (LINQPad script count - 0, DBScript count - 0, Schema change - NO, Data change - NO, Batch Job - NO, Web/Web-Template.config - NO BatchJob.config - NO).
+
+@'Amit Kakaiya' please deploy below branch on production tonight.
+
+Branch: MIX_MEHUL_653_AMIT_975
+
+![image](https://user-images.githubusercontent.com/71107438/220823620-879c1450-1c66-4559-a854-c8e3cd8b2ddf.png)
