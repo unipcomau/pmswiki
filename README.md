@@ -103,3 +103,6 @@ Deployed a new version in UAT - 23.203.1644_M00387_UM Database Change Required (
 Branch: MIX_MEHUL_653_AMIT_975
 
 ![image](https://user-images.githubusercontent.com/71107438/220823620-879c1450-1c66-4559-a854-c8e3cd8b2ddf.png)
+
+![image](https://user-images.githubusercontent.com/71107438/221779053-910ccfa7-e9e5-4af0-a37a-061098bc8f12.png)
+
