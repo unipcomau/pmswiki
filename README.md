@@ -34,8 +34,6 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - OpenVPN- 3.3.6 (2752) Add script for login as 'support'
 - LINQPad 7.7.1 64 bit Add licence key
 
-![image](https://user-images.githubusercontent.com/71107438/220879633-0a796a65-715b-47b6-a9a3-2e0d30ddcc65.png)
-
 - LLBLGen Add licence file
 - OzCode
 - RDTabs 3.0.12.657
@@ -101,6 +99,8 @@ Deployed a new version in UAT - 23.203.1644_M00387_UM Database Change Required (
 @'Amit Kakaiya' please deploy below branch on production tonight.
 
 Branch: MIX_MEHUL_653_AMIT_975
+
+![image](https://user-images.githubusercontent.com/71107438/220879633-0a796a65-715b-47b6-a9a3-2e0d30ddcc65.png)
 
 ![image](https://user-images.githubusercontent.com/71107438/218746935-f925da82-7c08-4316-8112-8d0ad492477f.png)
 
