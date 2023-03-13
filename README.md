@@ -42,7 +42,7 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - 7Zip
 - Portable folder
 
-![image](https://user-images.githubusercontent.com/71107438/218746935-f925da82-7c08-4316-8112-8d0ad492477f.png)
+
 
 - Notepad2
 - IIS setup internal.portfoliomanager.cloud and internal.unip.com.au in hosts file<br />
