@@ -1,4 +1,4 @@
-# PC Setup steps for Onboarding (Wiki)
+# Training PC Setup steps for Onboarding (Wiki)
 - Microsoft Team Microsoft Teams Version 23002.403.1788.1930
 - D: drive
 - Setup Do_not_Move and PMS folder
@@ -109,3 +109,6 @@ Branch: MIX_MEHUL_653_AMIT_975
 ![image](https://user-images.githubusercontent.com/71107438/221779053-910ccfa7-e9e5-4af0-a37a-061098bc8f12.png)
 
 ![image](https://user-images.githubusercontent.com/71107438/224647508-8eb4facc-ae74-4210-8a59-538ba74fd328.png)
+
+![Stock Buy Sell Lines](https://user-images.githubusercontent.com/71107438/233927415-6ab401e9-6119-4597-b275-a9cad912f591.png)
+
