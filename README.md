@@ -27,6 +27,8 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - Beyond Compare 4.4.5 27371 (- choco install beyondcompare) Add licence key
 - Use developer email address and setup BitBucket as SSH/SSL to get the Code in PMS folder
 - Setup git alias rb pu gs gg (Commit using gg - Git GUI)
+- ![image](https://github.com/unipcomau/pmswiki/assets/71107438/5ec7ca95-c923-4eb9-ba2e-311503a1f4a5)
+
 - Setup TortoiseGit (- choco install tortoisegit) and Beyond Compare DIFF 
 - 3rd party DLL and Tools
   - Telerik Reporting (https://www.telerik.com/products/reporting.aspx)
