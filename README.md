@@ -9,6 +9,12 @@
 - Create folder C:\Temp\PMSDB
 - Create folder C:\Temp\PMSDB\Snapshots
 
+NEW for SQL22
+
+![image](https://github.com/unipcomau/pmswiki/assets/71107438/3f0d2852-a68d-4567-821e-72e82e328b4f)
+
+SQL19
+
 ![image](https://user-images.githubusercontent.com/71107438/218455248-e974b527-ecd0-4282-822d-2193a6753ee9.png)
 
 ![image](https://user-images.githubusercontent.com/86107243/218457084-c6abc38b-b4c0-4aba-ac25-dd918b8fc646.png)
