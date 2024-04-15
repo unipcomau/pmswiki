@@ -13,6 +13,8 @@ NEW for SQL22
 
 ![image](https://github.com/unipcomau/pmswiki/assets/71107438/3f0d2852-a68d-4567-821e-72e82e328b4f)
 
+![image](https://github.com/unipcomau/pmswiki/assets/71107438/4c7fa180-8c63-47e0-a1a3-945ae43543eb)
+
 SQL19
 
 ![image](https://user-images.githubusercontent.com/71107438/218455248-e974b527-ecd0-4282-822d-2193a6753ee9.png)
