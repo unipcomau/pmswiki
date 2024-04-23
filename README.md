@@ -128,3 +128,6 @@ Branch: MIX_MEHUL_653_AMIT_975
 
 
 ![image](https://github.com/unipcomau/pmswiki/assets/71107438/47d6ec2d-f441-46f3-8758-30a54d881751)
+
+[oh-my-posh.txt](https://github.com/unipcomau/pmswiki/files/15080386/oh-my-posh.txt)
+
