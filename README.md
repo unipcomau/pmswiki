@@ -37,6 +37,10 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 - Setup git alias rb pu gs gg (Commit using gg - Git GUI)
 - ![image](https://github.com/unipcomau/pmswiki/assets/71107438/5ec7ca95-c923-4eb9-ba2e-311503a1f4a5)
 
+  ![image](https://github.com/unipcomau/pmswiki/assets/71107438/47d6ec2d-f441-46f3-8758-30a54d881751)
+
+  [oh-my-posh.txt](https://github.com/unipcomau/pmswiki/files/15080386/oh-my-posh.txt)
+
 - Setup TortoiseGit (- choco install tortoisegit) and Beyond Compare DIFF 
 - 3rd party DLL and Tools
   - Telerik Reporting (https://www.telerik.com/products/reporting.aspx)
@@ -126,8 +130,4 @@ Branch: MIX_MEHUL_653_AMIT_975
 
 ![image](https://github.com/unipcomau/pmswiki/assets/71107438/2dc0092d-c69a-4193-b46c-bf94c1573346)
 
-
-![image](https://github.com/unipcomau/pmswiki/assets/71107438/47d6ec2d-f441-46f3-8758-30a54d881751)
-
-[oh-my-posh.txt](https://github.com/unipcomau/pmswiki/files/15080386/oh-my-posh.txt)
 
