@@ -41,22 +41,35 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 
   [oh-my-posh.txt](https://github.com/unipcomau/pmswiki/files/15080386/oh-my-posh.txt)
 
-- Setup TortoiseGit (- choco install tortoisegit) and Beyond Compare DIFF 
+- Beyond Compare DIFF 
 - 3rd party DLL and Tools
   - Telerik Reporting (https://www.telerik.com/products/reporting.aspx)
   - (no setup) Telerik ASP.NET AJAX in WebUI (https://www.telerik.com/products/aspnet-ajax.aspx)
-- OpenVPN- 3.3.6 (2752) Add script for login as 'support'
 - LINQPad 7.7.1 64 bit Add licence key
-
 - LLBLGen Add licence file
-- OzCode
-- RDTabs 3.0.12.657
+
 - 7Zip
 - Portable folder
+- Notepad3
 
+- PS> choco upgrade all
+Chocolatey v2.2.2
+Upgrading the following packages:
 
+dropbox v198.4.7615 
+git v2.45.0 
+git.install v2.45.0 
+oh-my-posh v19.25.0 
+openvpn-connect v3.4.4 (login as 'support')
+postman v10.24.16 
+powershell-core v7.4.2 
+powertoys v0.80.1 
+rdtabs v3.0.12 
+soapui v5.7.2 
+tortoisegit v2.16.0 
+vscode v1.89.0 
+vscode.install v1.89.0 
 
-- Notepad2
 - IIS setup internal.portfoliomanager.cloud and internal.unip.com.au in hosts file<br />
 - IIS Rewrite Module 2 (v7.2.1993)
 
