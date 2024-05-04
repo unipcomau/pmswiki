@@ -1,11 +1,9 @@
 # Training PC Setup steps for Onboarding (Wiki)
-- Microsoft Team Microsoft Teams Version 23002.403.1788.1930
+- Microsoft Team Microsoft Teams Version 24060.3102.2733.5911. The client version is 48/24032909844.
 - D: drive
 - Setup Do_not_Move and PMS folder
-- Setup PowerShell 5.1.22621.963 prompt in ConEmu
-- Chocolatey and packages
-  - choco install sql-server-management-studio  
-- SQL Server 2019 Developer (15.0.2095.3) Standalone installation
+- Setup PowerShell 5.1.22621.963 prompt in Windows Terminal
+- SQL Server 2022 Developer
 - Create folder C:\Temp\PMSDB
 - Create folder C:\Temp\PMSDB\Snapshots
 
