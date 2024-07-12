@@ -9,6 +9,8 @@
 
 NEW for SQL22
 
+![image](https://github.com/user-attachments/assets/6addeabb-1ddf-46dd-aae3-e0b4bc44c141)
+
 ![image](https://github.com/unipcomau/pmswiki/assets/71107438/3f0d2852-a68d-4567-821e-72e82e328b4f)
 
 ![image](https://github.com/unipcomau/pmswiki/assets/71107438/4c7fa180-8c63-47e0-a1a3-945ae43543eb)
