@@ -9,11 +9,9 @@
 
 NEW for SQL22
 
-Correct
-![image](https://github.com/unipcomau/pmswiki/assets/71107438/4c7fa180-8c63-47e0-a1a3-945ae43543eb)
-
-NotThis
 ![image](https://github.com/unipcomau/pmswiki/assets/71107438/3f0d2852-a68d-4567-821e-72e82e328b4f)
+
+![image](https://github.com/unipcomau/pmswiki/assets/71107438/4c7fa180-8c63-47e0-a1a3-945ae43543eb)
 
 ![image](https://github.com/unipcomau/pmswiki/assets/71107438/2dc0092d-c69a-4193-b46c-bf94c1573346)
 
