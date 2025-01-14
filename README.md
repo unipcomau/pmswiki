@@ -42,7 +42,10 @@ SERVERPROPERTY('IsClustered') AS 'IsClustered'
 
   [oh-my-posh.txt](https://github.com/unipcomau/pmswiki/files/15080386/oh-my-posh.txt)
 
-- Beyond Compare DIFF 
+- Beyond Compare DIFF
+https://www.scootersoftware.com/kb/vcs#tortoisegit
+- TortoiseGit - Diff "D:\Do_not_Move\Portable\BeyondCompare4\BCompare.exe" %base %mine /title1=%bname /title2=%yname /leftreadonly
+- TortoiseGit - 3-way Merge "D:\Do_not_Move\Portable\BeyondCompare4\BCompare.exe" %mine %theirs %base %merged /title1=%yname /title2=%tname /title3=%bname /title4=%mname
 - 3rd party DLL and Tools
   - Telerik Reporting (https://www.telerik.com/products/reporting.aspx)
   - (no setup) Telerik ASP.NET AJAX in WebUI (https://www.telerik.com/products/aspnet-ajax.aspx)
