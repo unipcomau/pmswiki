@@ -148,3 +148,36 @@ Branch: MIX_MEHUL_653_AMIT_975
 ![image](https://github.com/unipcomau/pmswiki/assets/71107438/2dc0092d-c69a-4193-b46c-bf94c1573346)
 
 
+# Info/Email(s)
+Key | Value
+------------ | -------------
+Test for all Roles | <code>Administrators (Developer own Admin role login), PowerMembers (smsf-ews / EWS + shared), ServiceProviders (taxservice2u / Accountant-PMC + shared), AdvisorMembers (mark-delacruz Member-ESW, synthiasekar Member-EEW + shared, steve.rogers Member-RVX + shared), Members (edjb-RVX and  eli-austin-RVX + with shared), SemiAdmin (unip.support1 / Member-PMC + with shared) but not Guests</code>
+Delete manually .aspx(s) or other dll(s) | <code>UPDATE-THIS-INFO (eg. TaxPack.aspx)</code>
+From | <code>Ashok</code>
+Date | <code>08 Jan 2025, 08:50</code>
+Subject | <code>UPDATE-THIS-INFO</code>
+UAT Tested (with Screenshot) by | <code>Amit</code>
+Manual checking by (before Production deploy) | <code>Amit</code>
+Branch DEV | <code>1576_AMIT_FundNewColumns</code>
+Deploy Type | <code> MINI (M) </code>
+Task Point | <code>VERY-SMALL (Upto 0.5Hr)</code>
+DB Total Script(s) to run (with FileName) | <code> 0 </code>
+LINQPad Total File(s) to run (with .linq FileName) | <code> 0 </code>
+LLBLGen Pro File Changes | <code> NO </code>
+XML file change (with Folder and FileName) | <code> NO </code>
+DB Schema Changes (with FileName) | <code> NO </code>
+DB Data Changes (with FileName) | <code> NO </code>
+DB Diagram Changes (with FileName) | <code> NO </code>
+BatchJob.exe Change | <code> NO </code>
+BatchJob config Change | <code> NO </code>
+BatchJobCode its Engine or SubCode | <code> NO </code>
+New/Rename/Remove Folder | <code> NO </code>
+New/Rename/Remove File | <code> NO </code>
+Depends on other tracker(s) | <code> NO </code>
+LinqPad file1 | <code> NO </code>
+LinqPad file2 | <code> NO </code>
+Folder in ObjectLibrary | <code> n/a </code>
+Branch UAT & PROD Deploy | <code>UPDATE-THIS-INFO (eg. Merged_20201209)</code>
+Release number Merged | <code>UPDATE-THIS-INFO (eg. 21.603.1820_M00282)</code>
+
+# Description
