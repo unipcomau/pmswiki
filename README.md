@@ -7,7 +7,15 @@
 - Create folder C:\Temp\PMSDB
 - Create folder C:\Temp\PMSDB\Snapshots
 
+- [Summary_AKDESKTOP_20250428_002716.txt](https://github.com/user-attachments/files/19930302/Summary_AKDESKTOP_20250428_002716.txt)
+- [SQLServer_ERRORLOG_2025-04-28T00.32.12.txt](https://github.com/user-attachments/files/19930300/SQLServer_ERRORLOG_2025-04-28T00.32.12.txt)
+- [SQLServer_ERRORLOG_2025-04-28T00.32.18.txt](https://github.com/user-attachments/files/19930301/SQLServer_ERRORLOG_2025-04-28T00.32.18.txt)
+
+
+
 NEW for SQL22
+
+
 
 ![image](https://github.com/user-attachments/assets/6addeabb-1ddf-46dd-aae3-e0b4bc44c141)
 
